@@ -1,0 +1,1 @@
+仅物料配置定义，行为定义在minions-activities 模块
