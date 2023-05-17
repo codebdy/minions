@@ -15,6 +15,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "@rxdrag/tsconfig": "workspace:*",
     "vite": "^4.2.0"
   },
   "peerDependencies": {
