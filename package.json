@@ -2,7 +2,7 @@
   "name": "minions",
   "private": true,
   "version": "1.0.0",
-  "description": "minions",
+  "description": "minions 逻辑编排",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",

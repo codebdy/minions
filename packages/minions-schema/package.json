@@ -1,5 +1,5 @@
 {
-  "name": "@rxdrag/minions-core",
+  "name": "@rxdrag/minions-schema",
   "version": "1.0.0",
   "author": "Water.Li",
   "type": "module",
@@ -11,15 +11,11 @@
     "test"
   ],
   "scripts": {
-    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist",
     "test": "vitest"
   },
-  "dependencies": {
-    "@rxdrag/minions-schema": "workspace:*"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@rxdrag/eslint-config-custom": "workspace:*",
-    "@rxdrag/tsconfig": "workspace:*"
+    "vite": "^4.2.0"
   },
   "peerDependencies": {
     "@types/node": "*",
